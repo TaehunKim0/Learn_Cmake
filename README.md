@@ -7,3 +7,5 @@ Cmake Project Build (Create Ninja Build setting file )
 
 [-S] : set cmake source dir (. is current dir)
 [-B] : set build dir (build is created dir)
+[-G] : set build system (Ninja system)
+[Multi-Config] : create debug / release build setting file(project)
